@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomizeWindowController.cs](./CS/WinWebSolution.Module/CustomizeWindowController.cs) (VB: [CustomizeWindowController.vb](./VB/WinWebSolution.Module/CustomizeWindowController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to: Customize a Window Caption and Status Messages
 
 
