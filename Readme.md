@@ -4,6 +4,9 @@
 * [CustomizeWindowController.cs](./CS/WinWebSolution.Module/CustomizeWindowController.cs) (VB: [CustomizeWindowController.vb](./VB/WinWebSolution.Module/CustomizeWindowController.vb))
 <!-- default file list end -->
 # OBSOLETE - How to: Customize a Window Caption and Status Messages
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1922)**
+<!-- run online end -->
 
 
 <p>This example is now obsolete. The most up-to-date approach is available in the <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3252">How to: Customize a Window Caption</a> and <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3253">How to: Customize Window Status Messages</a> help topics.</p>
